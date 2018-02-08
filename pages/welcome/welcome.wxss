@@ -1,3 +1,16 @@
-text{
-  text-align: center
+.welcome-box{
+  text-align: center;
 }
+.welcome-box text{
+  text-align: center;
+  display: block;
+}
+ .avatar-img{
+   margin: 160rpx auto 20rpx;
+ }
+ .welcome-text{
+   font-weight: 400;
+   font-size: 40rpx;
+   padding-top: 200rpx;
+ }
+

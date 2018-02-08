@@ -1,4 +1,7 @@
 /**app.wxss**/
+view{
+  box-sizing: border-box;
+}
 .container {
   height: 100%;
   display: flex;
@@ -8,3 +11,9 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.avatar-img{
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+  border: none;
+}

@@ -1,13 +1,5 @@
-<view>
-
-
-
-<text>灵玉小仙女</text>
-
-
-
-
+<view class='welcome-box'>
+  <image class='avatar-img' src='/images/avatar.png'></image>
+  <text class='name'>灵玉</text>
+  <text class='welcome-text'>Welcome</text>
 </view>
-<view>
-
-<text>LingYu</text></view>
