@@ -4,7 +4,9 @@ Page({
    * 页面的初始数据
    */
   data: {
-    
+    banner:[
+      "/images/ele.jpg","/images/es6.jpg","/images/java.jpg"
+    ]
   },
 
   /**
